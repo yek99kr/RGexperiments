@@ -21,7 +21,7 @@ function Box() {
         occlude
         onOcclude={setVisible}
       >
-        <span>I look like 2d but I'm 3d</span>
+        <span>I look like 2d but I am 3d</span>
       </Html>
     </mesh>
   );
